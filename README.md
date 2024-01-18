@@ -8,7 +8,7 @@
 
 ## 배포 주소
 
-> **깃허브**: [↗️https://github.com/likelion-backend-5th/Final_Project_6team](https://github.com/likelion-backend-5th/Final_Project_6team) <br>
+> **깃허브**: [↗️https://github.com/Jyoungjo/Hidden-Piece](https://github.com/Jyoungjo/Hidden-Piece) <br>
 > **서버**: [↗️https://www.hidden-piece.kro.kr/views/main](https://www.hidden-piece.kro.kr/views/main) <br>
 
 ## 개발팀 소개 🫂
